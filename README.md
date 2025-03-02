@@ -141,6 +141,10 @@ Data Transformation – Converting data to appropriate formats.
 
 Descriptive Statistics – Summarizing key metrics like mean, median.
 
+
+![](Images/Screenshot%202025-02-22%20193812.png)
+
+
 Outlier Detection – Using the Interquartile Range (IQR) method.
 
 DATA ANALYSIS AND VISUALIZATION
