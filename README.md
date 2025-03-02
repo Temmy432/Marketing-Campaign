@@ -111,7 +111,14 @@ Loading and Exploring Data – Reading the dataset, checking structure.
 Data Cleaning – Handling missing values, correcting data types, removing duplicates.
 
 
-![](Images/Screenshot%202025-02-22%20193741.png)
+ ![](Images/Screenshot%202025-02-22%20193804.png)                                                                      
+
+
+
+
+
+
+![](Images/Screenshot%202025-02-22%20193741.png)                                                                
 
 
 
