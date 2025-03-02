@@ -121,11 +121,7 @@ Data Cleaning – Handling missing values, correcting data types, removing dupli
 
 
 
-
-
 ![](Images/Screenshot%202025-02-22%20193741.png)                                                                
-
-
 
 
 
@@ -139,8 +135,7 @@ Data Transformation – Converting data to appropriate formats.
 
 
 
-
-
+![](Images/Screenshot%202025-02-22%20193659.png)
 
 
 
