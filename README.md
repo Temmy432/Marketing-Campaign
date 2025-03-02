@@ -147,6 +147,10 @@ Descriptive Statistics – Summarizing key metrics like mean, median.
 
 Outlier Detection – Using the Interquartile Range (IQR) method.
 
+
+![](Images/Screenshot%202025-02-23%20143716.png)
+
+
 DATA ANALYSIS AND VISUALIZATION
 
 Average Metrics by Channel Used
