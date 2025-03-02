@@ -1,9 +1,7 @@
 # Marketing-Campaign
 This report evaluates marketing campaign performance using key metrics like ROI, CTR, CPC, and conversion rates. It analyzes channels, audience segments, and locations to optimize strategies. Insights and recommendations are backed by data visualization using Python, Pandas, and Seaborn.
 
-MARKETING REPORT ANALYSIS
 
-PREPARED BY OSENI NOFISAT
 
 TABLE OF CONTENTS:
 
@@ -111,6 +109,11 @@ Loading and Exploring Data – Reading the dataset, checking structure.
 
 
 Data Cleaning – Handling missing values, correcting data types, removing duplicates.
+
+
+![](Images/Screenshot%202025-02-22%20193741.png)
+
+
 
 Data Transformation – Converting data to appropriate formats.
 
