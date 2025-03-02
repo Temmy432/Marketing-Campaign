@@ -98,9 +98,14 @@ Jupyter Notebook – Interactive analysis.
 METHODOLOGY
 
 Importing Libraries – Loading essential libraries for data processing.
+
 ![](Images/Screenshot%2025-02-22%20191431.png)
 
 Loading and Exploring Data – Reading the dataset, checking structure.
+
+
+![](Images/Screenshot%202025-02-22%20192423.png)
+
 
 Data Cleaning – Handling missing values, correcting data types, removing duplicates.
 
