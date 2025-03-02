@@ -115,6 +115,14 @@ Data Cleaning – Handling missing values, correcting data types, removing dupli
 
 
 
+
+
+
+![](Images/Screenshot%202025-02-22%20193750.png)
+
+
+
+
 Data Transformation – Converting data to appropriate formats.
 
 Descriptive Statistics – Summarizing key metrics like mean, median.
