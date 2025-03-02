@@ -137,6 +137,13 @@ Data Cleaning – Handling missing values, correcting data types, removing dupli
 
 Data Transformation – Converting data to appropriate formats.
 
+
+
+
+
+
+
+
 Descriptive Statistics – Summarizing key metrics like mean, median.
 
 Outlier Detection – Using the Interquartile Range (IQR) method.
