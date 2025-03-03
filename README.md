@@ -186,6 +186,9 @@ YouTube shows high CPC but relatively lower conversions.
 
 
 
+![](Images/Screenshot%202025-02-24%20135207.png)
+
+
 
 
 # INSIGHTS
