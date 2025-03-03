@@ -151,7 +151,7 @@ Outlier Detection – Using the Interquartile Range (IQR) method.
 ![](Images/Screenshot%202025-02-23%20143716.png)
 
 
-DATA ANALYSIS AND VISUALIZATION
+ ## DATA ANALYSIS AND VISUALIZATION
 
 # PERFORMANCE METRIC CALCULATION
 
@@ -163,7 +163,11 @@ The key marketing metrics were calculated such as the Click Through Rate (CTR), 
 
 
 
-Average Metrics by Channel Used
+# AVERAGE METRICS BY CHANNEL USED
+
+
+
+![](Images/Screenshot%202025-02-24%20133455.png)
 
 
 
