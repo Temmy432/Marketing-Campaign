@@ -201,6 +201,12 @@ ROI fluctuates across different campaign types.
 
 # TOTAL ROI BY LOCATION
 
+
+
+![](Images/Screenshot%202025-02-24%20135550.png)
+
+
+
 # INSIGHTS
 
 Miami generated the highest ROI, slightly surpassing other locations.
