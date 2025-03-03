@@ -172,7 +172,7 @@ The key marketing metrics were calculated such as the Click Through Rate (CTR), 
 
 
 
-#INSIGHTS
+# INSIGHTS
 
 CPC is high across all channels.
 
@@ -182,9 +182,13 @@ ROI is the lowest metric.
 
 YouTube shows high CPC but relatively lower conversions.
 
-Total ROI by Campaign Type
+# TOTAL ROI BY CAMPAIGN TYPE
 
-#INSIGHTS
+
+
+
+
+# INSIGHTS
 
 Influencer campaigns have the highest ROI.
 
@@ -192,9 +196,9 @@ Social media campaigns have the lowest ROI.
 
 ROI fluctuates across different campaign types.
 
-Total ROI by Location
+# TOTAL ROI BY LOCATION
 
-#INSIGHTS
+# INSIGHTS
 
 Miami generated the highest ROI, slightly surpassing other locations.
 
@@ -202,9 +206,9 @@ All locations have similar ROI percentages.
 
 New York and Houston had the lowest ROI.
 
-Total Impressions by Channel Used
+# TOTAL IMPRESSIONS BY CHANNEL USED
 
-Insights
+# INSIGHTS
 
 Google Ads has the highest impressions, followed closely by Email.
 
@@ -214,7 +218,7 @@ The distribution of impressions is relatively even across all channels.
 
 Cumulative Engagement
 
-Insights
+# INSIGHTS
 
 Search campaigns had the highest engagement, followed closely by Influencer marketing.
 
