@@ -3,9 +3,9 @@ This report evaluates marketing campaign performance using key metrics like ROI,
 
 
 
-TABLE OF CONTENTS:
+# TABLE OF CONTENTS:
 
-INTRODUCTION
+# INTRODUCTION
 
 OBJECTIVES
 
@@ -233,7 +233,12 @@ Facebook has the lowest impressions.
 
 The distribution of impressions is relatively even across all channels.
 
-Cumulative Engagement
+# CUMULATIVE ENGAGEMENT
+
+
+
+
+
 
 # INSIGHTS
 
