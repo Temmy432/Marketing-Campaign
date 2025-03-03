@@ -3,9 +3,9 @@ This report evaluates marketing campaign performance using key metrics like ROI,
 
 
 
-## TABLE OF CONTENTS:
+TABLE OF CONTENTS:
 
-# INTRODUCTION
+INTRODUCTION
 
 OBJECTIVES
 
@@ -25,13 +25,13 @@ RECOMMENDATIONS
 
 CONCLUSION
 
-INTRODUCTION
+## INTRODUCTION
 
 This report provides an in-depth analysis of the performance metrics of recent marketing campaigns. By examining key indicators such as Campaign ID, Return on Investment (ROI), Click-Through Rate (CTR), Cost Per Click (CPC), and Conversion Rate, we assess effectiveness and identify areas for optimization.
 
 The goal is to provide data-driven insights to enhance future strategies, audience engagement, and budget efficiency. Through visualization and trend analysis, this report highlights strengths and weaknesses, helping stakeholders make informed decisions.
 
-OBJECTIVES
+## OBJECTIVES
 
 Optimize Channel Performance – Identify the most effective platforms for engagement and conversions.
 
@@ -45,11 +45,11 @@ Boost Audience Engagement – Identify impactful content and messaging strategie
 
 Refine Target Audience Strategy – Personalize marketing efforts for better audience targeting.
 
-DATA SOURCE
+## DATA SOURCE
 
 The dataset, "marketing_campaign_dataset.xlsx," was provided by HNG TECH and contains comprehensive marketing campaign data, including impressions, clicks, conversion rates, acquisition costs, and engagement metrics.
 
-DATA OVERVIEW
+## DATA OVERVIEW
 
 The dataset consists of 200,005 rows and 15 columns, capturing key attributes such as:
 
@@ -83,7 +83,7 @@ Engagement Score – User interactions (likes, shares, comments).
 
 Customer Segment – Classification of customers for personalized marketing.
 
-TOOLS USED
+## TOOLS USED
 
 Python – Primary programming language.
 
@@ -93,7 +93,7 @@ Matplotlib & Seaborn – Data visualization.
 
 Jupyter Notebook – Interactive analysis.
 
-METHODOLOGY
+## METHODOLOGY
 
 Importing Libraries – Loading essential libraries for data processing.
 
