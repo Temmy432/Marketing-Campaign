@@ -218,7 +218,8 @@ New York and Houston had the lowest ROI.
 # TOTAL IMPRESSIONS BY CHANNEL USED
 
 
-![](Images/Images/channelused.jpeg)
+
+![](Images/Images/20%channelused20%.jpeg)
 
 
 
