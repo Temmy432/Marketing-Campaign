@@ -172,7 +172,7 @@ The key marketing metrics were calculated such as the Click Through Rate (CTR), 
 
 
 
-Insights
+#INSIGHTS
 
 CPC is high across all channels.
 
@@ -184,7 +184,7 @@ YouTube shows high CPC but relatively lower conversions.
 
 Total ROI by Campaign Type
 
-Insights
+#INSIGHTS
 
 Influencer campaigns have the highest ROI.
 
@@ -194,7 +194,7 @@ ROI fluctuates across different campaign types.
 
 Total ROI by Location
 
-Insights
+#INSIGHTS
 
 Miami generated the highest ROI, slightly surpassing other locations.
 
