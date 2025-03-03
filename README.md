@@ -217,6 +217,11 @@ New York and Houston had the lowest ROI.
 
 # TOTAL IMPRESSIONS BY CHANNEL USED
 
+
+![](Images/Images/channelused.jpeg)
+
+
+
 # INSIGHTS
 
 Google Ads has the highest impressions, followed closely by Email.
