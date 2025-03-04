@@ -237,6 +237,7 @@ The distribution of impressions is relatively even across all channels.
 
 
 
+![](Images/Screenshot%202025-02-25%20180104.png)
 
 
 
@@ -248,7 +249,11 @@ Display ads and email campaigns performed moderately well.
 
 Social media had the lowest engagement.
 
-Average Engagement Level by Audience
+# AVERAGE ENGAGEMENT LEVEL BY AUDIENCE
+
+
+
+
 
 # INSIGHTS
 
