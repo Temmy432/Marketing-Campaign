@@ -220,7 +220,7 @@ New York and Houston had the lowest ROI.
 
 
 
-![](Images/Images/channelused.jpeg)
+![](Images/channelused.jpeg)
 
 
 
