@@ -253,6 +253,8 @@ Social media had the lowest engagement.
 
 
 
+![](Images/Screenshot%202025-02-25%20181348.png)
+
 
 
 # INSIGHTS
