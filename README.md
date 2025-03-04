@@ -19,19 +19,19 @@ DATA PREPROCESSING
 
 DATA ANALYSIS AND VISUALIZATION
 
-KEY INSIGHTS
+OVERALL KEY INSIGHTS
 
 RECOMMENDATIONS
 
 CONCLUSION
 
-## INTRODUCTION
+# INTRODUCTION
 
 This report provides an in-depth analysis of the performance metrics of recent marketing campaigns. By examining key indicators such as Campaign ID, Return on Investment (ROI), Click-Through Rate (CTR), Cost Per Click (CPC), and Conversion Rate, we assess effectiveness and identify areas for optimization.
 
 The goal is to provide data-driven insights to enhance future strategies, audience engagement, and budget efficiency. Through visualization and trend analysis, this report highlights strengths and weaknesses, helping stakeholders make informed decisions.
 
-## OBJECTIVES
+# OBJECTIVES
 
 Optimize Channel Performance – Identify the most effective platforms for engagement and conversions.
 
@@ -45,11 +45,11 @@ Boost Audience Engagement – Identify impactful content and messaging strategie
 
 Refine Target Audience Strategy – Personalize marketing efforts for better audience targeting.
 
-## DATA SOURCE
+# DATA SOURCE
 
 The dataset, "marketing_campaign_dataset.xlsx," was provided by HNG TECH and contains comprehensive marketing campaign data, including impressions, clicks, conversion rates, acquisition costs, and engagement metrics.
 
-## DATA OVERVIEW
+# DATA OVERVIEW
 
 The dataset consists of 200,005 rows and 15 columns, capturing key attributes such as:
 
@@ -83,7 +83,7 @@ Engagement Score – User interactions (likes, shares, comments).
 
 Customer Segment – Classification of customers for personalized marketing.
 
-## TOOLS USED
+# TOOLS USED
 
 Python – Primary programming language.
 
@@ -93,7 +93,7 @@ Matplotlib & Seaborn – Data visualization.
 
 Jupyter Notebook – Interactive analysis.
 
-## METHODOLOGY
+# METHODOLOGY
 
 Importing Libraries – Loading essential libraries for data processing.
 
@@ -163,7 +163,7 @@ The key marketing metrics were calculated such as the Click Through Rate (CTR), 
 
 
 
-# AVERAGE METRICS BY CHANNEL USED
+## AVERAGE METRICS BY CHANNEL USED
 
 
 
@@ -172,7 +172,7 @@ The key marketing metrics were calculated such as the Click Through Rate (CTR), 
 
 
 
-# INSIGHTS
+## INSIGHTS
 
 CPC is high across all channels.
 
@@ -191,7 +191,7 @@ YouTube shows high CPC but relatively lower conversions.
 
 
 
-# INSIGHTS
+## INSIGHTS
 
 Influencer campaigns have the highest ROI.
 
@@ -199,7 +199,7 @@ Social media campaigns have the lowest ROI.
 
 ROI fluctuates across different campaign types.
 
-# TOTAL ROI BY LOCATION
+## TOTAL ROI BY LOCATION
 
 
 
@@ -207,7 +207,7 @@ ROI fluctuates across different campaign types.
 
 
 
-# INSIGHTS
+## INSIGHTS
 
 Miami generated the highest ROI, slightly surpassing other locations.
 
@@ -225,7 +225,7 @@ New York and Houston had the lowest ROI.
 
 
 
-# INSIGHTS
+## INSIGHTS
 
 Google Ads has the highest impressions, followed closely by Email.
 
@@ -233,7 +233,7 @@ Facebook has the lowest impressions.
 
 The distribution of impressions is relatively even across all channels.
 
-# CUMULATIVE ENGAGEMENT
+## CUMULATIVE ENGAGEMENT
 
 
 
@@ -241,7 +241,7 @@ The distribution of impressions is relatively even across all channels.
 
 
 
-# INSIGHTS
+## INSIGHTS
 
 Search campaigns had the highest engagement, followed closely by Influencer marketing.
 
@@ -257,7 +257,7 @@ Social media had the lowest engagement.
 
 
 
-# INSIGHTS
+## INSIGHTS
 
 Men aged 18-24 have the highest engagement score.
 
@@ -265,7 +265,7 @@ Women aged 25-34 also show strong engagement.
 
 Women aged 35-44 have the lowest engagement, though differences are minimal.
 
-## OVERALL KEY INSIGHTS
+# OVERALL KEY INSIGHTS
 
 Google Ads, Email, and Website generate the highest impressions, making them key awareness drivers.
 
@@ -283,7 +283,7 @@ Influencer marketing is crucial for audience participation.
 
 Better targeting and content optimization are needed across all channels.
 
-## RECOMMENDATIONS
+# RECOMMENDATIONS
 
 Prioritize Google Ads, Email, and Website for awareness, while improving social media engagement strategies.
 
@@ -301,7 +301,7 @@ Personalize website and email campaigns to convert high impressions into sales.
 
 Continuously analyze and refine strategies for sustained marketing growth.
 
-## CONCLUSION
+# CONCLUSION
 
 The analysis highlights that Google Ads, Email, and Website generate the most impressions, while Search and Influencer campaigns drive the highest engagement. Younger male (18-24) and female (25-34) audiences exhibit the strongest engagement, making them priority targets. Despite its reach, Social Media shows lower engagement, suggesting a need for strategic refinement. Miami has the highest ROI, yet marketing efforts there do not fully align with its performance, presenting an opportunity to maximize investment. Location-based ROI varies significantly, emphasizing the importance of tailored regional strategies. Optimizing underperforming channels and leveraging high-engagement platforms will enhance marketing efficiency and profitability.
 
