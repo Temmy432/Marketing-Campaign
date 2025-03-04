@@ -250,7 +250,7 @@ Social media had the lowest engagement.
 
 Average Engagement Level by Audience
 
-Insights
+# INSIGHTS
 
 Men aged 18-24 have the highest engagement score.
 
@@ -258,7 +258,7 @@ Women aged 25-34 also show strong engagement.
 
 Women aged 35-44 have the lowest engagement, though differences are minimal.
 
-KEY INSIGHTS
+## OVERALL KEY INSIGHTS
 
 Google Ads, Email, and Website generate the highest impressions, making them key awareness drivers.
 
@@ -276,7 +276,7 @@ Influencer marketing is crucial for audience participation.
 
 Better targeting and content optimization are needed across all channels.
 
-RECOMMENDATIONS
+## RECOMMENDATIONS
 
 Prioritize Google Ads, Email, and Website for awareness, while improving social media engagement strategies.
 
@@ -294,7 +294,7 @@ Personalize website and email campaigns to convert high impressions into sales.
 
 Continuously analyze and refine strategies for sustained marketing growth.
 
-CONCLUSION
+## CONCLUSION
 
 The analysis highlights that Google Ads, Email, and Website generate the most impressions, while Search and Influencer campaigns drive the highest engagement. Younger male (18-24) and female (25-34) audiences exhibit the strongest engagement, making them priority targets. Despite its reach, Social Media shows lower engagement, suggesting a need for strategic refinement. Miami has the highest ROI, yet marketing efforts there do not fully align with its performance, presenting an opportunity to maximize investment. Location-based ROI varies significantly, emphasizing the importance of tailored regional strategies. Optimizing underperforming channels and leveraging high-engagement platforms will enhance marketing efficiency and profitability.
 
